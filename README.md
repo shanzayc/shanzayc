@@ -25,7 +25,8 @@ I enjoy exploring how people interact with technology and aim to create experien
 ---
 
 ## 📫 Connect with Me
-- Feel free to reach out! ✉️ Email: shanzayc@outlook.com
+- Feel free to reach out!
+- ✉️ Email: shanzayc@outlook.com
 - [LinkedIn](https://linkedin.com/in/shanzaychaudhry)
 - [GitHub](https://github.com/shanzayc)
   
